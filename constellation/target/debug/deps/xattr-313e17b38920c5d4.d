@@ -1,0 +1,12 @@
+/workspaces/IDS721-Week4-Rust-Mini-Project/constellation/target/debug/deps/xattr-313e17b38920c5d4.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/workspaces/IDS721-Week4-Rust-Mini-Project/constellation/target/debug/deps/libxattr-313e17b38920c5d4.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/workspaces/IDS721-Week4-Rust-Mini-Project/constellation/target/debug/deps/xattr-313e17b38920c5d4.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs:
